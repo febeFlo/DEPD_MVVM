@@ -383,7 +383,7 @@ class _CostPageState extends State<CostPage> {
                                           ),
                                           SizedBox(height: 4),
                                           Text(
-                                            'Estimasi sampai: ${costs.cost![0].etd.toString()} days',
+                                            'Estimasi sampai: ${costs.cost![0].etd.toString()}',
                                             style: TextStyle(
                                               fontWeight: FontWeight.w500,
                                               fontSize: 12,
